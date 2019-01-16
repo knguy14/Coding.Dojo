@@ -1,0 +1,11 @@
+for (var x = -300; x <= 0; x+=3) {
+  if (x === -3) {
+    continue;
+  } 
+  else if (x === -6) {
+    continue;
+  } 
+  else {
+    console.log(x);
+  }
+}
