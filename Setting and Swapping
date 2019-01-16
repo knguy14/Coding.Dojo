@@ -1,0 +1,9 @@
+var Mynumber = 42;
+var myName = "Khang";
+var temp;
+
+temp = myNumber;
+myNumber = myName;
+myName = temp; 
+
+console.log (myNumber, myName);
