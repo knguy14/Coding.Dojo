@@ -1,12 +1,12 @@
-for (var x = -300; x <= 0; x+=3) {
-  if (x === -3) {
+for (var i = -300; i <= 0; i+=3) {
+  if (i === -3) {
     continue;
   } 
   else 
-  if (x === -6) {
+  if (i === -6) {
     continue;
   } 
   else {
-    console.log(x);
+    console.log(i);
   }
 }
