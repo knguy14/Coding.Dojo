@@ -1,4 +1,4 @@
-var Mynumber = 42;
+var myNumber = 42;
 var myName = "Khang";
 var temp;
 
